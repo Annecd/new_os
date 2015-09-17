@@ -12,7 +12,7 @@ Click this link
 https://basecamp.com/2980772/people/12395816/outstanding_todos
 
 ### Step 2
-All those tickets assigned to this Admin Role are "open todos" (or to-do list), those are the tasks to execute on a daily bases. 
+All those tickets assigned to this Admin Role are "open todos" (or to-do list), those are the tasks to execute on a daily basis. 
 
 ### Step 3
 If you see todos that are open, assign it to you
